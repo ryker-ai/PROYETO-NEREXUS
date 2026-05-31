@@ -77,4 +77,6 @@ Documentación técnica completa
 Ivan Martin Castañares
 Rafael Lozano Rubio
 
+https://github.com/ryker-ai/PROYETO-NEREXUS.git
+
 Proyecto desarrollado por los alumnos del ciclo de Sistemas Microinformáticos y Redes (SMR) como Trabajo de Fin de Ciclo 2025-2026.
