@@ -74,7 +74,7 @@ Evidencias de validación
 Scripts desarrollados
 Documentación técnica completa
 
-Ivan MArtin Castañada
+Ivan Martin Castañada
 Rafael Lozano Rubio
 
 Proyecto desarrollado por los alumnos del ciclo de Sistemas Microinformáticos y Redes (SMR) como Trabajo de Fin de Ciclo 2025-2026.
