@@ -74,7 +74,7 @@ Evidencias de validación
 Scripts desarrollados
 Documentación técnica completa
 
-Ivan Martin Castañares
+Ivan Martin Castañares,
 Rafael Lozano Rubio
 
 https://github.com/ryker-ai/PROYETO-NEREXUS.git
